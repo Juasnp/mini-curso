@@ -1,2 +1,3 @@
 Hello word! 
 Você está fazendo o melhor mini curso da UEPA!
+//eu gosto de programar
